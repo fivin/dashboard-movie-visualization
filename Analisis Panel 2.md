@@ -18,8 +18,8 @@ Hal ini bertujuan untuk memberikan pemahaman terhadap data atau informasi yang i
 
 ## 2. Why user intends to use vis tool ?
 Pertanyaan why digunakan untuk menentukan action dan target dalam abstraksi data. 
-Berikut merupakan action dan target yang digunakan untuk memvisualisasikan data karyawan berdasarkan pertanyaan yang diberikan di atas.
-### - Action : Presend
+Berikut merupakan action dan target yang digunakan untuk memvisualisasikan data film berdasarkan pertanyaan yang diberikan di atas.
+### - Action : Present
 ### - Target : Trend (All Data), Extremes (Attributes)
 
 ## 3. How the visual encoding and interaction of idioms are constructed ?
