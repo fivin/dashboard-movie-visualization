@@ -29,4 +29,4 @@ Cara yang dilakukan adalah dengan mengubah urutan data (data-driven reordering),
 
 
 Setelah malakukan analisis pertanyaan dengan what-why-how framework, pada tahapan ini akan ditentukan idiom visualisasi yang tepat untuk menemukan jawaban dari pertanyaan tersebut. 
-Idiom visualisasi yang tepat untuk memrepresentasikan data karyawan yang digunakan berdasarkan analisis terhadap pertanyaan “Apa saja Film dengan peringkat teratas?” adalah Bar Chart.
+Idiom visualisasi yang tepat untuk memrepresentasikan data film yang digunakan berdasarkan analisis terhadap pertanyaan “Apa saja Film dengan peringkat teratas?” adalah Bar Chart.
