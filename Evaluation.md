@@ -19,18 +19,26 @@ Setiap domain pada deskripsi data memiliki workflow untuk memecahkan kasus visua
 Jenis perubahan observasi dapat dikategorikan menjadi 4 jenis utama yaitu perubahan pilihan yang memicu penyorotan yang berbeda dari elemen set data, perubahan area pandang yang muncul dari navigasi, perubahan urutan spasial elemen dari pengurutan, dan perubahan seluruh pengkodean visual. Selection erat kaitannya dengan highlighting dimana elemen yang dipilih ditunjukkan dengan cara mengubah tampilan visualnya, memanipulasi pandangan pilihan desain untuk menyoroti item yang dipilih dengan mengubah warna pada ketiga panel tersebut. Warna sorotan pada idiom ini telah cukup berbeda dari warna lain sehingga efek visual dicapai dengan kontras corak, pencahayaan, atau saturasi yang memadai. Selain itu, tampilan antarmuka dibuat dengan 2D. 
 
 Evaluasi pada proyek ini menggunakan evaluasi qualitative yang digunakan pada penemuan yang bersifat inquiry untuk memahami masalah yang timbul berdasarkan analisis mendalam terhadap gambaran gambaran menyeluruh. Hasil proyek tersebut  dapat digeneralisasi untuk membuktikan bahwa teori yang digunakan memang dapat dinyatakan mengandung kebenaran tanpa melakukan analisis statistic. Evaluasi qualitative summative ini terjadi pada akhir studi atau tahap akhir setelah melakukan implementasi. Terdapat 20 responden yang memberikan tangggan masing masing dengan 4 pertanyaan yang menjadi pertimbangan bagi user dalam melihat poin observasi proyek dengan jawaban ya atau tidak.
+
 1.	Apakah pada dashboard terdapat item yang saling menutupi sehingga visualisasi sulit untuk dipahami?
 Untuk pertanyaan pertama 95 % menjawab tidak dan 5% menjawab Ya.
- 
+
+ ![11](https://user-images.githubusercontent.com/66812564/104191271-e2411e00-544f-11eb-912c-32233b73a05f.png)
+
 2.	Apakah dashboard menyediakan informasi sesuai dengan yang dibutuhkan user pada industri perfiliman?
 Untuk pertanyaan kedua 100 % menjawab Ya yang berarti visualisasi tersebut seuai dengan kebutuhan user.
+
+ ![2](https://user-images.githubusercontent.com/66812564/104191415-10bef900-5450-11eb-9380-02d72a466425.png)
  
 3.	Apakah pada dashboard terdapat filter untuk  informasi yang diinginkan user ?
 Untuk pertanyaan ketiga, 100 % responden menjawab ya.
+
+ ![2](https://user-images.githubusercontent.com/66812564/104191415-10bef900-5450-11eb-9380-02d72a466425.png)
  
 4.	Apakah  dashboard telah memperhatikan kebutuhan user sebagai pengguna interaktif  pada visualisasi diatas?
 Untuk pertanyaan keempat, responden menjawab ya dengan total 100%
- 
+
+ ![2](https://user-images.githubusercontent.com/66812564/104191415-10bef900-5450-11eb-9380-02d72a466425.png)
 
 Untuk kolom kritik tanggapan responden menyampaikan:
 1.	Ada baiknya jika jumlah average rating pada idiom bar chart ditambahkan di mark label.
